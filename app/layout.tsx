@@ -33,8 +33,20 @@ export const metadata = {
   title: 'Muneer Ahmed — Python Developer',
   description: 'Full-stack Python developer building web applications, data tools, and scalable systems.',
   icons: {
-    icon: '/favicon.png',
+    icon: '/favicon.png',        // shows in browser tab
     apple: '/favicon.png',
+  },
+  openGraph: {
+    title: 'Muneer Ahmed — Python Developer',
+    description: 'Full-stack Python developer building web applications, data tools, and scalable systems.',
+    url: 'https://buildwithmuner.online',
+    images: [
+      {
+        url: '/og.png',    // shows on Google search & social shares
+        width: 1200,
+        height: 630,
+      },
+    ],
   },
 }
 export default function RootLayout({
