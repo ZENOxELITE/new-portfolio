@@ -30,6 +30,9 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 // }
 
 export const metadata = {
+  verification: {
+    google: 'IE1caZCLuJaY86l5AGhExDu85ch_2rB1b0GXOltlcGk',
+  },
   title: 'Muneer Ahmed — Python Developer',
   description: 'Full-stack Python developer building web applications, data tools, and scalable systems.',
   icons: {
