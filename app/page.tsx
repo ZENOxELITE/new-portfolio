@@ -194,6 +194,10 @@ export default function Home() {
           <div className="t-item">REST APIs</div>
           <div className="t-item">Github</div>
           <div className="t-item">Streamlit</div>
+          <div className="t-item">Loveable</div>
+          <div className="t-item">Claude</div>
+          <div className="t-item">V0</div>
+          <div className="t-item">Vercel</div>
           {/* <div className="t-item">Docker</div> */}
           {/* <div className="t-item">AWS</div> */}
           <div className="t-item">Python</div>
@@ -204,6 +208,11 @@ export default function Home() {
           <div className="t-item">REST APIs</div>
           <div className="t-item">Github</div>
           <div className="t-item">Streamlit</div>
+          <div className="t-item">Replit</div>
+          <div className="t-item">Loveable</div>
+          <div className="t-item">Claude</div>
+          <div className="t-item">V0</div>
+          <div className="t-item">Vercel</div>
           {/* <div className="t-item">Docker</div> */}
           {/* <div className="t-item">AWS</div> */}
         </div>
@@ -255,6 +264,10 @@ export default function Home() {
               {/* <div className="s-tag">AWS</div> */}
               <div className="s-tag">Github</div>
               <div className="s-tag">Streamlit</div>
+              <div className="s-tag">Replit</div>
+              <div className="s-tag">Loveable</div>
+              <div className="s-tag">V0</div>
+              <div className="s-tag">Vercel</div>
             </div>
           </div>
         </div>
