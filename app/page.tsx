@@ -166,12 +166,12 @@ export default function Home() {
               </div>
               <div className="t-line">
                 <span className="t-prompt">»</span>
-                <span className="t-cmd">databases</span> = [<span className="t-str">&quot;PostgreSQL&quot;</span>, <span className="t-str">&quot;MongoDB&quot;</span>]
+                <span className="t-cmd">databases</span> = [<span className="t-str">&quot;PostgreSQL&quot;</span>, <span className="t-str">&quot;MySQL&quot;</span>]
               </div>
               <div className="t-spacer"></div>
               <div className="t-line">
                 <span className="t-prompt">»</span>
-                <span className="t-cmd">tools</span> = [<span className="t-str">&quot;Git&quot;</span>, <span className="t-str">&quot;Docker&quot;</span>, <span className="t-str">&quot;AWS&quot;</span>]
+                <span className="t-cmd">tools</span> = [<span className="t-str">&quot;Git&quot;</span>, <span className="t-str">&quot;Replit&quot;</span>, <span className="t-str">&quot;V0 by vercel&quot;</span>]
               </div>
               <div className="t-spacer"></div>
               <div className="t-cursor-line">
