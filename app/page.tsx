@@ -255,6 +255,10 @@ export default function Home() {
               {/* <div className="s-tag">AWS</div> */}
               <div className="s-tag">Github</div>
               <div className="s-tag">Streamlit</div>
+              <div className="s-tag">Replit</div>
+              <div className="s-tag">V0 by vercel</div>
+              <div className="s-tag">loveable</div>
+              <div className="s-tag">Claude</div>
             </div>
           </div>
         </div>
