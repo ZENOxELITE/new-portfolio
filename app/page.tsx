@@ -214,7 +214,7 @@ export default function Home() {
         <div>
           <div className="section-eyebrow">About me</div>
           <h2 className="about-h">
-            Passionate Python <em>developer</em> building scalable solutions
+            Python <em>developer</em> building scalable solutions
           </h2>
           <p className="about-p">
             With a strong foundation in Python programming and full-stack development, I specialize in building <strong>robust web applications and data-driven tools</strong>. My journey in tech has been driven by a passion for solving complex problems efficiently.
