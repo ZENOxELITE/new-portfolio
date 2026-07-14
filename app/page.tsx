@@ -368,8 +368,8 @@ export default function Home() {
           <div className="p-card pc3 reveal">
             <div className="p-num">03</div>
             <div className="p-badge">E-Commerce</div>
-            <h3 className="p-title">The Formula Lab</h3>
-            <p className="p-desc">A premium perfume e-commerce website for the Pakistani market featuring an elegant dark theme with gold accents, size variants, discounts, and WhatsApp-based ordering.</p>
+            <h3 className="p-title">MA Fragrances</h3>
+            <p className="p-desc">A premium perfume e-commerce website for the Pakistani market featuring an elegant dark theme with gold accents, size variants, discounts, and ordering.</p>
             <ul className="p-feats">
               <li>Dark theme with gold accents</li>
               <li>Size variants</li>
@@ -382,7 +382,7 @@ export default function Home() {
               <span className="p-pill">Supabase</span>
               <span className="p-pill">shadcn/ui</span>
             </div>
-            <a href="https://theformulalab.store" target="_blank" rel="noopener noreferrer" className="p-link">
+            <a href="https://ma-fragrances-eight.vercel.app/" target="_blank" rel="noopener noreferrer" className="p-link">
               View Project →
             </a>
           </div>
